@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+.card{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    color:rgb(70, 51, 88);
+    border-radius: 20px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: cornsilk;
+    padding:10px;
+    font-family: 'Uchen', serif;
+
+
+}
+
+.card .profile_picture .image{
+    height:6.5em;
+    width:7em;
+
+}

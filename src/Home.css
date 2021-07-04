@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+.home{
+    display: flex;
+    justify-content: space-evenly;
+    width:100%;
+    flex-direction: column;
+    flex:wrap;
+    align-items: center;
+    color:rgb(105, 20, 105);
+    
+    font-family: 'Uchen', serif;
+    
+}
+.home > h1{
+    letter-spacing: 2PX;
+    font-size: x-large;
+    font-weight: 800;
+    align-self: flex-start;
+    margin: 10px 10px;
+}
+.Card{
+    width:70vw;
+    display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+height: max-content;
+align-items: center;
+margin-top: 20px;
+}
